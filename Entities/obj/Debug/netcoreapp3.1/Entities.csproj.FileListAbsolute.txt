@@ -1,0 +1,8 @@
+C:\Fund4yy\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Fund4yy\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Fund4yy\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Fund4yy\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Fund4yy\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Fund4yy\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Fund4yy\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Fund4yy\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
